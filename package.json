@@ -1,24 +1,28 @@
 {
-  "name": "parcel-project-template",
+  "name": "Francis Anthony JS HW11",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://Francis06131221.github.io/goit-js-hw11-v3",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw11-v3/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Francis06131221/goit-js-hw11-v3.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Francis Verano <francisanthonyverano@yahoo.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Francis06131221/goit-js-hw11-v3/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "axion": "^0.1.0",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.7",
+    "pixabay": "^0.0.1",
+    "simplelightbox": "^2.14.2"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
